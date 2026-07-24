@@ -8,12 +8,6 @@
 
 ---
 
-## Dashboard Preview
-
-*Screenshots coming soon*
-
----
-
 ## Business Context
 
 A growing e-commerce company is acquiring new customers at scale but has no systematic view of whether those customers stay. Retention, churn timing, and customer lifetime value have been tracked informally at best. Marketing spends on acquisition without knowing which channels bring back loyal customers versus one-time buyers, and no one has identified the exact point in the customer journey where churn risk is highest.
@@ -24,6 +18,12 @@ This analysis answers three questions:
 1. **How bad** is the retention problem — and is it getting worse?
 2. **Where and when** does churn concentrate in the customer journey?
 3. **Who** is churning, and what does fixing it mean in dollars?
+
+---
+
+## Dashboard Preview
+
+*Screenshots coming soon*
 
 ---
 
