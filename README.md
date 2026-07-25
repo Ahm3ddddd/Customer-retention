@@ -23,7 +23,21 @@ This analysis answers three questions:
 
 ## Dashboard Preview
 
-*Screenshots coming soon*
+### Executive Summary
+
+![Executive Summary](dashboard/screenshots/executive_summary.png)
+
+### Retention Overview
+
+![Retention Overview](dashboard/screenshots/retention_overview.png)
+
+### Where Churn Happens
+
+![Where Churn Happens](dashboard/screenshots/where_churn_happens.png)
+
+### Revenue Impact
+
+![Revenue Impact](dashboard/screenshots/revenue_impact.png)
 
 ---
 
